@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+.east{
+    background: #e4ced6; ;
+    width: 1460px;
+
+}
+
+.flex-box {
+  justify-content: space-evenly;
+  display: flex;
+  align-items: center;
+}
+.w-45 {
+  width: 45%;
+}
+
+.w-45 img {
+  width: 350px;
+}
+.main-btn {
+  background-color: #D23166;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.main-btn a {
+  text-decoration: none;
+  color: #fff;
+}
+header {
+  padding: 16px 0;
+}
+header nav ul {
+  display: flex;
+  gap: 60px;
+  list-style: none;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: #000;
+}
+.container{
+    width: 90%;
+    margin:  0 auto;
+    max-width: 1500px;
+}
+.weast{
+    text-align: center;
+}
+.akk img{
+    margin-bottom: 130px;
+    margin-left: 20px;
+}
+.add{
+    margin-bottom: 15px;
+    margin-right: 200px;
+}
+.block {
+    margin-bottom: 150px;
+}
+.aff{
+    text-align: center;
+}
+.we input{
+    width: 637px;
+    height: 74px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    border: 1px solid #FAFAFA;
+    margin-left: 255px;
+}
+.btn{
+    width: 134px;
+    height: 74px;
+    flex-shrink: 0;
+    background-color: #D23166;
+    border: 1px solid #D23166;
+    border-radius: 5px;
+    margin-right: 255px;
+}
+.he a{
+    color: #ffffff;
+    list-style: none;
+    text-decoration: none;
+}
+
+.asad{
+  background-color: #000;
+  color: #fff;
+  padding: 50px 70px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal; 
+}
+.she{
+display: flex;
+}
+.she ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.she ul li a {
+  text-decoration: none;
+  list-style-type: none;
+  color: #fff;
+}
+.container1{
+  width: 90%;
+  margin:  0 auto;
+  max-width: 1700px;
+  display: flex;
+  gap: 100px;
+}
+.a{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a input{
+  width: 350px;
+  height: 55px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 2px solid #D64374;
+  opacity: 0.5;
+}
+.a button{
+  width: 100px;
+  height: 55px;
+  flex-shrink: 0;
+  color: #fff;
+}
+ .bar{
+margin-top: -100px;
+color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal; 
+}
